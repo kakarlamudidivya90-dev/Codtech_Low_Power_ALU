@@ -276,15 +276,14 @@ module tb_low_power_alu;
         #10;
 
         // End Simulation
-        $display("Low Power Design Lab Simulation Completed Successfully.");
+        $display("Low Power Design Lab Simulation Completed Successfully.")
         $finish;
     end
       
 endmodulue
 
 
-
-![Console Output](docs/Screenshot_20260602_193703.jpg)
+[Console Output Screenshot](docs/Screenshot_20260602_193703.jpg)
 
 
 
