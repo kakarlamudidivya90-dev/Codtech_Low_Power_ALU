@@ -280,13 +280,12 @@ module tb_low_power_alu;
         $finish;
     end
       
-endmodule
-
+endmodulue
 
 ## 🧪 Simulation Console Output
 
 
-![Console Output](doc/Screenshot_20260602_193703.jpg)
+![Output](docs/Screenshot_20260602_193703.jpg)
 
 
 
