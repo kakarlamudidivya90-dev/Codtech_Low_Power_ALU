@@ -284,12 +284,10 @@ endmodulue
 
 
 
+![Console Output](docs/Screenshot_20260602_193703.jpg)
 
 
 
-## 🧪 Simulation Console Output
-
-![Console Output](Screenshot_20260602_193703.jpg)
 
 
 ---
