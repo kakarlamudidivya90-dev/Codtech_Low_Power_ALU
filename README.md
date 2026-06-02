@@ -286,7 +286,7 @@ endmodule
 ## 🧪 Simulation Console Output
 
 
-![Console Output](Screenshot_20260602_193703.jpg)
+![Console Output](doc/Screenshot_20260602_193703.jpg)
 
 
 
