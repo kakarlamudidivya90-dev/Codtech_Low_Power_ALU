@@ -282,11 +282,10 @@ module tb_low_power_alu;
       
 endmodulue
 
+
 ## 🧪 Simulation Console Output
 
-
-![Output](Screenshot_20260602_193703.jpg)
-
+![Console Output](Screenshot_20260602_193703.jpg)
 
 
 
