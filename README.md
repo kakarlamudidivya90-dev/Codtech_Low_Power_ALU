@@ -288,7 +288,9 @@ endmodule
 
 The output obtained after simulation is shown below.
 
-![Output Screenshot](Screenshot_202606062_193703.jpg)
+## 📷 Output Screenshot
+
+![Output Screenshot](Screenshot_20260602_193703.jpg)
 
 The simulation waveform response matches the expected output for all test cases
 
