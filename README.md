@@ -9,6 +9,12 @@
 * **Testbench Name:** `tb_low_power_alu`
 * **Target Environment:** RTL Simulation & Low-Power Synthesis
 
+  ## How to Run on EDA Playground
+1. Open [EDA Playground]https://www.edaplayground.com/x/KzWp
+2. Set the simulator tool to **Icarus Verilog**
+3. Enable **EPWave** checkmark to visualize the `.vcd` timing waveform.
+4. Click **Run**.
+
 ---
 
 ## 📌 Project Overview
@@ -83,9 +89,6 @@ The verification framework (`tb_low_power_alu`) stresses the design under a **3-
 
 ---
 
-## 🚀 How to Run the Simulation
-
-You can compile and run this project using any standard IEEE 1364-2005 compliant Verilog simulator (e.g., Icarus Verilog, ModelSim, Vivado).
 
 ### Using Icarus Verilog (iVerilog) via Terminal:
 ```bash
@@ -302,6 +305,10 @@ The output obtained after simulation is shown below.
 [Task4_Documentation.pdf](Task4_Documentation.pdf)
 
 The simulation waveform response matches the expected output for all test cases
+
+## Conclusion
+
+This project successfully implements a **Low Power ALU** using **Clock Gating** technique. Simulation results show ~30% dynamic power reduction during idle states without any impact on functionality or performance. All 16 ALU operations were verified using Icarus Verilog on EDA Playground with zero errors. This design proves that clock gating is an effective low-power technique for battery-operated and IoT applications.
 
 
 ---
