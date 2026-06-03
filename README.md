@@ -290,7 +290,7 @@ endmodulue
 
 ![EDA Playground Code and Simulation](Screenshot_20260602_193703.jpg)
 
-![Simulation Waveform](Screenshot_20260602_191558.jpg)
+![Simulation Waveform]Screenshot_20260602_191558.jpg
 
 
 
