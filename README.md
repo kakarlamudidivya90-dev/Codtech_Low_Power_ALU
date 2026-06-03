@@ -94,6 +94,8 @@ You can compile and run this project using any standard IEEE 1364-2005 compliant
 # 1. Compile design and testbench
 // ===================================================================
 // Company:     CodTech IT Solutions
+// Intern name : Kakarlamudi divya
+ //  Intern ID : CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Module:      low_power_alu_top
 // Description: Top-level 8-bit ALU with integrated clock gating
@@ -192,6 +194,8 @@ endmodule
 2.testbench code
 // ===================================================================
 // Company:     CodTech IT Solutions
+// Intern Name : Kakarlamudi divya
+  // Intern ID : CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Testbench:   tb_low_power_alu
 // Description: Verifies functionality and demonstrates power saving states.
@@ -276,11 +280,12 @@ module tb_low_power_alu;
         #10;
 
         // End Simulation
-        $display("Low Power Design Lab Simulation Completed Successfully.")
+        $display("Low Power Design Lab Simulation Completed Successfully.");
         $finish;
     end
       
-endmodulue
+endmodule
+
 
 ## 🧪 EDA Playground Simulation Results
 
