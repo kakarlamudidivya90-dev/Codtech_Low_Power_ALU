@@ -284,8 +284,8 @@ endmodule
 ```
 ## 📊  Simulation Waveforms (EPWave)
 
-The simulation waveform response matches the expected output for all test cases.
+The simulation waveform response matches the expected output for all test cases
 
-![EPWave Waveform](Screenshot_20260601_145729.jpg)
+![EPWave Waveform](Screenshot_2026602_193703.jpg)
 ---
 💡 *Developed as part of the Low Power VLSI Design Lab portfolio at CodTech IT Solutions.*
