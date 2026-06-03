@@ -283,6 +283,7 @@ endmodule
 
 ```
 ## 📊  Simulation Waveforms (EPWave)
+![EPWave Waveform](Screenshot_202606062_193703.jpg)
 
 The simulation waveform response matches the expected output for all test cases
 
