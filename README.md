@@ -282,8 +282,13 @@ module tb_low_power_alu;
       
 endmodulue
 
+## 🧪 EDA Playground Results
 
-[Console Output Screenshot](docs/Screenshot_20260602_193703.jpg)
+**1. Console Output:**  
+![Console Output](docs/Screenshot_20260602_193703.jpg)
+
+**2. Waveform:**  
+![Waveform](docs/Screenshot_20260602_191558.jpg)
 
 
 
