@@ -284,11 +284,13 @@ endmodulue
 
 ## 🧪 EDA Playground Results
 
-**1. Console Output:**  
-![Console Output](docs/Screenshot_20260602_193703.jpg)
+## 🧪 EDA Playground Simulation Results
 
-**2. Waveform:**  
-![Waveform](docs/Screenshot_20260602_191558.jpg)
+**1. Console Output & Testbench:**  
+![Console Output](Screenshot_20260602_193703.jpg)
+
+**2. Waveform from EPWave:**  
+![Waveform Output](Screenshot_20260602_191558.jpg)
 
 
 
