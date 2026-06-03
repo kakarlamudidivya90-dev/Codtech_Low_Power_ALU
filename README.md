@@ -288,6 +288,8 @@ module tb_low_power_alu;
       
 endmodule
 
+````
+
 
 ## 🧪 EDA Playground Simulation Results
 
