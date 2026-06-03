@@ -288,9 +288,9 @@ endmodulue
 
 **1. Console Output & Testbench:**
 
-![EDA Playground Code and Simulation](Screenshot_20260602_193703.jpg)
+Screenshot_20260602_193703.jpg
 
-![Simulation Waveform]Screenshot_20260602_191558.jpg
+Screenshot_20260602_191558.jpg
 
 
 
