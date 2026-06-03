@@ -285,10 +285,7 @@ endmodulue
 ## 🧪 EDA Playground Simulation Results
 
 ### 1. Console Output & Testbench
-![Console Output](docs/Screenshot_20260602_193703.jpg)
-
-### 2. Waveform from EPWave
-![Waveform Output](docs/Screenshot_20260602_191558.jpg)
+https://raw.githubusercontent.com/Low_Power_ALU/Kakarlamudidivya90-dev/main/docs/Screenshot_20260602_193703.jpg
 
 
 
