@@ -287,7 +287,9 @@ endmodulue
 ### 1. Console Output & Testbench
 ## Screenshot
 
-![Screenshot](Screenshot_20260602_193703.jpg)
+## Output Screenshot
+
+![Output Screenshot](Screenshot_20260602_193703.jpg)
 
 
 
