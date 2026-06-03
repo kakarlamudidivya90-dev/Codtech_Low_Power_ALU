@@ -190,7 +190,7 @@ module low_power_alu_top (
 
 endmodule
 
-````
+```
 
 
 2.testbench code
