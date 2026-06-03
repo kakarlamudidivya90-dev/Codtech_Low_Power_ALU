@@ -102,6 +102,8 @@ You can compile and run this project using any standard IEEE 1364-2005 compliant
 //              and operand isolation for dynamic power reduction.
 // ===================================================================
 
+
+'''
 `timescale 1ns / 1ps
 
 module low_power_alu_top (
@@ -203,7 +205,7 @@ endmodule
 // Description: Verifies functionality and demonstrates power saving states.
 // ===================================================================
 
-
+'''
 
 `timescale 1ns / 1ps
 
