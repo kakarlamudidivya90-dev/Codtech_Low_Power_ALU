@@ -299,6 +299,8 @@ The output obtained after simulation is shown below.
 
 ![EPWave Waveform](Screenshot_20260602_191558.jpg)
 
+[Task4_Documentation.pdf](Task4_Documentation.pdf)
+
 The simulation waveform response matches the expected output for all test cases
 
 
