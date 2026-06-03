@@ -203,6 +203,8 @@ endmodule
 // Description: Verifies functionality and demonstrates power saving states.
 // ===================================================================
 
+
+
 `timescale 1ns / 1ps
 
 module tb_low_power_alu;
@@ -288,7 +290,7 @@ module tb_low_power_alu;
       
 endmodule
 
-````
+```
 
 
 ## 🧪 EDA Playground Simulation Results
