@@ -91,7 +91,9 @@ You can compile and run this project using any standard IEEE 1364-2005 compliant
 ```bash
 *** verilog source code:
 // ===================================================================
-// Company:     CodTech IT Solutions
+// Company:     CodTech IT Solution
+// Intern Name : Kakarlamudi divya
+  // Intern Id : CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Module:      low_power_alu_top
 // Description: Top-level 8-bit ALU with integrated clock gating
@@ -191,6 +193,8 @@ endmodule
 ***testbench code :
 // ===================================================================
 // Company:     CodTech IT Solutions
+// Intern Name : Kakarlamudi divya
+  // Intern Id: CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Testbench:   tb_low_power_alu
 // Description: Verifies functionality and demonstrates power saving states.
@@ -288,9 +292,12 @@ endmodule
 
 The output obtained after simulation is shown below.
 
-## 📷 Output Screenshot
 
 ![Output Screenshot](Screenshot_20260602_193703.jpg)
+
+## timing waveform:
+
+![EPWave Waveform](Screenshot_20260602_191558.jpg)
 
 The simulation waveform response matches the expected output for all test cases
 
