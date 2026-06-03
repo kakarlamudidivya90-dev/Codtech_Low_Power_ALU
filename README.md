@@ -288,8 +288,6 @@ endmodulue
 ## Screenshot
 
 ## Output Screenshot
-
-![Output Screenshot](Screenshot_20260602_193703.jpg)
 ## Waveform Output
 
 ![Waveform Output](Screenshot_20260602_191558.jpg)
