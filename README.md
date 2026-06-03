@@ -285,7 +285,9 @@ endmodulue
 ## 🧪 EDA Playground Simulation Results
 
 ### 1. Console Output & Testbench
-https://raw.githubusercontent.com/Low_Power_ALU/Kakarlamudidivya90-dev/main/docs/Screenshot_20260602_193703.jpg
+## Screenshot
+
+![Screenshot](Screenshot_20260602_193703.jpg)
 
 
 
