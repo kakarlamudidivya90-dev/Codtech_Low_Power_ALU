@@ -283,10 +283,15 @@ endmodule
 
 ```
 ## 📊  Simulation Waveforms (EPWave)
-![EPWave Waveform](Screenshot_202606062_193703.jpg)
+
+## 📷 Output Screenshot
+
+The output obtained after simulation is shown below.
+
+![Output Screenshot](Screenshot_202606062_193703.jpg)
 
 The simulation waveform response matches the expected output for all test cases
 
-![EPWave Waveform](Screenshot_2026602_193703.jpg)
+
 ---
 💡 *Developed as part of the Low Power VLSI Design Lab portfolio at CodTech IT Solutions.*
