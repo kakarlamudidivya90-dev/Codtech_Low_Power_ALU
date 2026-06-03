@@ -1,11 +1,9 @@
-# Codtech_Low_Power_ALU
-Low Power ALU
 # Low Power 8-Bit ALU with Integrated Clock Gating and Operand Isolation
 
 ## 🏢 Company Profile
 * **Company:** CodTech IT Solutions
-* **Intern Name:**Kakarlamudi divya
-* **Intern Id:**CITS998
+* **Intern name:** Kakarlamudi divya
+* **Intern ID:***  CITS998
 * **Domain:** VLSI Design (Low Power Design Lab)
 * **Module Name:** `low_power_alu_top`
 * **Testbench Name:** `tb_low_power_alu`
@@ -91,19 +89,16 @@ You can compile and run this project using any standard IEEE 1364-2005 compliant
 
 ### Using Icarus Verilog (iVerilog) via Terminal:
 ```bash
-# 1. Compile design and testbench
+*** verilog source code:
 // ===================================================================
 // Company:     CodTech IT Solutions
-// Intern name : Kakarlamudi divya
- //  Intern ID : CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Module:      low_power_alu_top
 // Description: Top-level 8-bit ALU with integrated clock gating
 //              and operand isolation for dynamic power reduction.
 // ===================================================================
 
-
-'''
+```
 `timescale 1ns / 1ps
 
 module low_power_alu_top (
@@ -193,20 +188,14 @@ module low_power_alu_top (
 endmodule
 
 ```
-
-
-2.testbench code
+***testbench code :
 // ===================================================================
 // Company:     CodTech IT Solutions
-// Intern Name : Kakarlamudi divya
-  // Intern ID : CITS998
 // Domain:      VLSI Design (Low Power Design Lab)
 // Testbench:   tb_low_power_alu
 // Description: Verifies functionality and demonstrates power saving states.
 // ===================================================================
-
 '''
-
 `timescale 1ns / 1ps
 
 module tb_low_power_alu;
@@ -293,25 +282,10 @@ module tb_low_power_alu;
 endmodule
 
 ```
+## 📊  Simulation Waveforms (EPWave)
 
+The simulation waveform response matches the expected output for all test cases.
 
-## 🧪 EDA Playground Simulation Results
-
-### 1. Console Output & Testbench
-## Screenshot
-
-## Output Screenshot
-## Waveform Output
-
-![Waveform Output](Screenshot_20260602_191558.jpg)
-
-
-
-
-
-
-
-
-
+![EPWave Waveform](Screenshot_20260601_145729.jpg)
 ---
 💡 *Developed as part of the Low Power VLSI Design Lab portfolio at CodTech IT Solutions.*
